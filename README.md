@@ -5,6 +5,7 @@ Git
 
 #Installation 
 
-´´´
+'''
 npm install -g truffle
-´´´
+npm install lite-server --save-dev
+'''
